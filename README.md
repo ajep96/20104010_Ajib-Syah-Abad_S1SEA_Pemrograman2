@@ -21,10 +21,10 @@ Soal :
 4. Tipe
 
 Jawaban :
-1. [Jawaban Soal 1](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/Modul0/src/Modul0/Aritmatika.java)
-2. [Jawaban Soal 2](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/Modul0/src/Modul0/CobaUnicode.java)
-3. [Jawaban Soal 3](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/Modul0/src/Modul0/InputKeyboard.java)
-4. [Jawaban Soal 4](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/Modul0/src/Modul0/Tipe.java)
+1. [Jawaban Soal 1](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/modul0/src/Modul0/Aritmatika.java)
+2. [Jawaban Soal 2](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/modul0/src/Modul0/CobaUnicode.java)
+3. [Jawaban Soal 3](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/modul0/src/Modul0/InputKeyboard.java)
+4. [Jawaban Soal 4](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/blob/modul0/src/Modul0/Tipe.java)
 
 <hr>
 
