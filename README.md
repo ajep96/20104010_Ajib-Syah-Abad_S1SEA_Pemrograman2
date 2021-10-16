@@ -1,11 +1,17 @@
-# 20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2
-### Mata kuliah Pemrograman 2
-### Praktikum Pemrograman 2
+# Modul 1 : 
+
+## Dasar Teori
+
+  Penjelasan Teori
 
 <hr>
 
-## Daftar isi :
-1. [Modul0 : Dasar Pemrograman 2]
-2. 
-3. 
-4. 
+## Praktikum
+Soal : 
+1. 
+
+Jawaban :
+1. [Jawaban Soal 1]
+<hr>
+
+## Kesimpulan
