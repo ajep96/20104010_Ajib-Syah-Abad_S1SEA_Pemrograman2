@@ -1,4 +1,4 @@
-package Modul0;
+package Modul0.percobaan;
 
 public class Tipe {
     public static void main(String[] args) {
