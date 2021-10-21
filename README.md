@@ -1,19 +1,27 @@
-# Modul 0 : Dasar Pemrograman Java
+# Modul2 : Dasar Pemrograman Java
 
 <hr>
 
 ## Dasar Teori
 * Keyword dalam Java
 
-  Penjelasan Teori
+  Keyword merupakan **`kata kunci dalam JAVA`** atau **Identifier** yang memiliki fungsi masing-masing pada code program dan keyword **tidak dapat digunakan dalam penamaan variable**. 
+  
   
 * Tipe Dasar
 
-  Penjelasan Teori
+  **JAVA** memiliki **`8`** tipe data, tipe Integer Number / Numerik / Angka yaitu Bilangan Bulat (**`byte, short, int, long`**), Bilangan Besimal (**`float, double`**), Karakter (**`char`**), Boolean (**`boolean`**).
+  
   
 * Variabel
 
-  Penjelasan Teori
+  Variabel merupakan **`penanda identitas`** yang digunakan sebagai tempat untuk menampung suatu nilai.
+  
+  
+* Casting dan Promotion
+
+  Casting dan Promotion merupakan suatu proses **`perubahan jenis type data`** pada suatu variabel di dalam JAVA.
+  
 
 <hr>
 
