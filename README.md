@@ -1,11 +1,34 @@
-# 20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2
-### Mata kuliah Pemrograman 2
-### Praktikum Pemrograman 2
+# Modul 3 : OOP
 
 <hr>
 
-## Daftar isi :
-1. [Modul0 : Dasar Pemrograman 2](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul0)
-2. [Modul1 : ](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul1)
+## Dasar Teori
+* Keyword dalam Java
+
+  Penjelasan Teori
+  
+* Tipe Dasar
+
+  Penjelasan Teori
+  
+* Variabel
+
+  Penjelasan Teori
+
+<hr>
+
+## Praktikum
+Soal : 
+1. 
+2. 
 3. 
-4. 
+
+Jawaban :
+1. [Jawaban Soal 1]()
+2. [Jawaban Soal 2]()
+3. [Jawaban Soal 3]()
+
+<hr>
+
+## Kesimpulan
+Mengulangi code dasar perintah java dan tipe dasar dari variabel
