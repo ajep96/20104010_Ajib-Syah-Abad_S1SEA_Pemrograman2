@@ -1,17 +1,32 @@
-# 20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2
-### Mata kuliah Pemrograman 2
-### Praktikum Pemrograman 2
+# MODUL 8 : POLIMORFISME
 
 <hr>
 
-## Daftar isi :
-1. [Modul2 : DASAR PEMROGRAMAN JAVA](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul2)
-2. [Modul3 : PENGENALAN PEMROGRAMAN BERIORIENTASI OBJEK](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul3)
-3. [Modul4 : DASAR PEMROGRAMAN BERIORIENTASI OBJEK](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul4)
-4. [Modul5 : MENGELOLA CLASS](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul5)
-5. [Modul6 : KONSEP INHERITANCE](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul6)
-6. [Modul7 : OVERLOADING DAN OVERRIDING](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul7)
-7. [Modul8 : POLIMORFISME](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul8)
-8. [Modul9 : ]()
+## Dasar Teori
+
+* Exception
+
+
+* Tipe-tipe Exception (Checked Exception dan Unchecked Exception)
+
+
+* Menangani exception menggunakan try, catch, finally, throw dan throws
+
+
 
 <hr>
+
+## Praktikum
+Soal : 
+1. Mengidentifikasi soal percobaan modul 8
+
+Jawaban :
+1. [Jawaban Soal](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul8/src/Modul8/latihan)
+
+ 
+
+<hr>
+
+## Kesimpulan
+Kesimpulan praktikum pemrograman pada modul 8
+
