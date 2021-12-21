@@ -12,6 +12,6 @@
 5. [Modul6 : KONSEP INHERITANCE](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul6)
 6. [Modul7 : OVERLOADING DAN OVERRIDING](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul7)
 7. [Modul8 : POLIMORFISME](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul8)
-8. [Modul9 : ]()
+8. [Modul9 : Exception](https://github.com/ajep96/20104010_Ajib-Syah-Abad_S1SEA_Pemrograman2/tree/modul9)
 
 <hr>
