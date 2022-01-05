@@ -116,3 +116,6 @@ Kami juga menggunakan modifire `protected` dalam Class Enemy, penggunaan modifir
 6. Polimorfisme
 
 
+7. Exception
+
+
