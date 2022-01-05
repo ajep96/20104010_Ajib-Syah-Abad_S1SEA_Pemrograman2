@@ -1,6 +1,6 @@
 package Modul10.TUBES;
 
-public class Hydra extends com.kelompok.tubes.Enemy {
+public class Hydra extends Enemy {
     public Hydra(int level){
         this.name = "Hydra";
         this.health = 50 * level;
@@ -9,5 +9,11 @@ public class Hydra extends com.kelompok.tubes.Enemy {
         this.defense = 20 * level;
         this.experience = 35 * level;
         this.level = level;
+    }
+
+    public String  IntroAlley() {
+        super.IntroAlley();
+        System.out.println("Hahaha, Human? its sound easy! \nHuman are weak");
+        return word;
     }
 }
