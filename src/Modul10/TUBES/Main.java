@@ -128,6 +128,7 @@ public class Main {
 
                             do {
                                 System.out.println("\nYou cross paths with " + enemy.getName() + " Lv " + enemy.getLevel() + ".");
+                                System.out.println(enemy.IntroAlley());
                                 System.out.println("[Your Action]");
                                 System.out.println("1. Fight");
                                 System.out.println("2. Run");
