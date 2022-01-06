@@ -74,7 +74,10 @@ Setiap monster yang ditemui berdasarkan level player. Jika level player rendah, 
 
 #### FLOWCHART
 
-#### CLASS DIAGRAM
+![Flowchart Game](https://user-images.githubusercontent.com/77684590/148349027-f506b32c-17b1-4c1f-9acc-dfc54f241b77.png)
+
+<hr>
+#### MATERI YANG RELEVAN DENGAN PENGGUNAAN CODE 
 
 1. OOP atau Pemrograman Berorientasi Objek
    OOP atau Pemrograman Berorientasi Objek merupakan pemrograman yang berorientasikan kepada objek, yang mana semua data dan fungsi dibungkus dalam class atau object.
